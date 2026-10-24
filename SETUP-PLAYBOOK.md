@@ -8,7 +8,7 @@ It provides universal Git policy plus reusable automation that teams adapt per s
 Replace this once and keep it permanent:
 
 ```text
-https://github.com/your-org/git-discipline-template
+https://github.com/sujan0629/git-discipline
 ```
 
 Share this exact URL with your team:
